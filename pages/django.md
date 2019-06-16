@@ -3,12 +3,8 @@ layout: default
 title: Django
 description: This is about django
 show_follow: false
+show_repository: true
 related_repository: https://github.com/Ricinix/django_learn
----
-
-# django_learn
-按照django官方文档敲出来的代码，没啥东西。综合大多数服务器部署教程，自己写了下在服务器上的部署方法
-
 ---
 
 ## 常用Linux命令

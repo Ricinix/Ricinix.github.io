@@ -4,4 +4,5 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 show_follow:
+show_repository:
 related_repository:
